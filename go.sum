@@ -53,6 +53,8 @@ github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZb
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/rmortale/bookstore_oauth-go v0.0.0-20220709175719-c4ea8dd78b26 h1:n/Mm/oYAqsNoD+VQtZeknvurjJW0zQfXyt1W0n6pDrU=
 github.com/rmortale/bookstore_oauth-go v0.0.0-20220709175719-c4ea8dd78b26/go.mod h1:QbrCzytWUjngcSTVHNkb2cJkd2Okcx5BSDTgzdKdXPE=
+github.com/rmortale/bookstore_utils-go v0.0.0-20220709184127-aa67bfa66b1b h1:UO8+iKbm48/1c/Y6fPwjXroLaeZZn6egH7wN0Fh8yf0=
+github.com/rmortale/bookstore_utils-go v0.0.0-20220709184127-aa67bfa66b1b/go.mod h1:zsJEeDYLNQJ6u1pXbzRgbBioKLIj0dPFkfVFa14q+hI=
 github.com/rogpeppe/go-internal v1.6.1/go.mod h1:xXDCJY+GAPziupqXw64V24skbSoqbTEfhy4qGm1nDQc=
 github.com/rogpeppe/go-internal v1.8.0 h1:FCbCCtXNOY3UtUuHUYaghJg4y7Fd14rXifAYUAtL9R8=
 github.com/rogpeppe/go-internal v1.8.0/go.mod h1:WmiCO8CzOY8rg0OYDC4/i/2WRWAB6poM+XZ2dLUbcbE=
